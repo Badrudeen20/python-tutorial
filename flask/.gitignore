@@ -1,0 +1,5 @@
+*venv/
+authentication/
+ecommerce/
+Flask-Rest-API/
+socket/
